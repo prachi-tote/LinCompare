@@ -1,0 +1,15 @@
+C:\Users\prachi\source\repos\LineCompare\LineCompare\bin\Debug\net6.0\LineCompare.exe
+C:\Users\prachi\source\repos\LineCompare\LineCompare\bin\Debug\net6.0\LineCompare.deps.json
+C:\Users\prachi\source\repos\LineCompare\LineCompare\bin\Debug\net6.0\LineCompare.runtimeconfig.json
+C:\Users\prachi\source\repos\LineCompare\LineCompare\bin\Debug\net6.0\LineCompare.dll
+C:\Users\prachi\source\repos\LineCompare\LineCompare\bin\Debug\net6.0\LineCompare.pdb
+C:\Users\prachi\source\repos\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.csproj.AssemblyReference.cache
+C:\Users\prachi\source\repos\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prachi\source\repos\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.AssemblyInfoInputs.cache
+C:\Users\prachi\source\repos\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.AssemblyInfo.cs
+C:\Users\prachi\source\repos\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.csproj.CoreCompileInputs.cache
+C:\Users\prachi\source\repos\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.dll
+C:\Users\prachi\source\repos\LineCompare\LineCompare\obj\Debug\net6.0\refint\LineCompare.dll
+C:\Users\prachi\source\repos\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.pdb
+C:\Users\prachi\source\repos\LineCompare\LineCompare\obj\Debug\net6.0\LineCompare.genruntimeconfig.cache
+C:\Users\prachi\source\repos\LineCompare\LineCompare\obj\Debug\net6.0\ref\LineCompare.dll
