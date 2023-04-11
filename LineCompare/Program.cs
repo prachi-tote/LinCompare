@@ -4,6 +4,7 @@ using System;
 
 namespace LineCamparison
 {
+    //Calculate the length of line
     internal class Program
     {
         public static void LengthOfLine()
