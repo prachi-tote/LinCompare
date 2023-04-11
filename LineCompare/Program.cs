@@ -7,7 +7,8 @@ namespace LineCamparison
     internal class Program
     {
         public static void LengthOfLine()
-        {
+        {   
+            //Compare two lines
             Console.WriteLine("Enter First line Point");
             Console.WriteLine("Enter First Point");
             Console.Write(" X1 = ");
@@ -36,13 +37,19 @@ namespace LineCamparison
             double LengthofLine2 = Math.Sqrt(Math.Pow((x4 - x3), 2) + Math.Pow((y4 - y3), 2));
             Console.WriteLine($"Length of Second Line = {LengthofLine2}");
 
-            if (LenghtOfLine1 == LengthofLine2)
+            int Result = LenghtOfLine1.CompareTo(LengthofLine2);
+
+            if (Result > 0)
             {
-                Console.WriteLine("First Line and Second Lines are Equal");
+                Console.WriteLine("First Line is greater than Second Line");
+            }
+            else if (Result < 0)
+            {
+                Console.WriteLine("Second Line is greater than First Line");
             }
             else
             {
-                Console.WriteLine("First Line and Second Lines are not Equal");
+                Console.WriteLine("First Line and Second Lines are Equal");
             }
         }
         static void Main(string[] args)
